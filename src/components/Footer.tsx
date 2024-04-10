@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-container mx-auto flex flex-col items-center md:flex-row">
         <Link to="/" aria-label="Homepage">
           <img
-            src="/logi=light.svg"
+            src="/logo-light.svg"
             alt="Scoot light logo"
             className="g-[28px]"
           />
