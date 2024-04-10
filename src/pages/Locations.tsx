@@ -31,10 +31,10 @@ export default function Locations() {
                 London
               </li>
               <li className="py-[1.375rem] bg-light-yellow md:bg-yellow md:absolute md:w-full md:max-w-[120px] md:top-[169px] md:left-[480px] md:py-0 xl:max-w-[190px] xl:py-[1.375rem] xl:left-[856px] xl:top-[78px] relative location-item">
-                Jakarta
+                Yokohama
               </li>
               <li className="py-[1.375rem] bg-light-yellow md:bg-yellow md:absolute md:w-full md:max-w-[120px] md:top-[65px] md:left-[530px] md:py-0 xl:max-w-[190px] xl:py-[1.375rem] xl:left-[779px] xl:top-[251px] relative location-item">
-                Yokohama
+                Jakarta
               </li>
             </ul>
           </div>
